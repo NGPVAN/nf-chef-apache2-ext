@@ -1,0 +1,30 @@
+{
+  "replacing": {
+  },
+  "providing": {
+  },
+  "groupings": {
+  },
+  "dependencies": {
+    "apache2": ">= 0.0.0"
+  },
+  "maintainer_email": "engineers@nationalfield.org",
+  "conflicting": {
+  },
+  "suggestions": {
+  },
+  "attributes": {
+  },
+  "description": "Additional resources to enable modules and apache helpers.",
+  "name": "apache2-ext",
+  "recommendations": {
+  },
+  "recipes": {
+  },
+  "platforms": {
+  },
+  "maintainer": "NationalField",
+  "version": "0.0.1",
+  "license": "MIT",
+  "long_description": "Adds support for:\n\n- Enabling and configuring the RPAF apache module\n"
+}
